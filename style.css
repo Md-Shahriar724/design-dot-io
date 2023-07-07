@@ -39,7 +39,28 @@
     height: 150px;
     border-radius: 5px;
 }
+.btn{
+    background-color:red;
+    color: white;
+    border: none;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.btn:hover{
+    color: red;
+    font-weight: bolder;
+    background-color: #f5eeee;
+    border: 1px solid red;
+}
+.absec{
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 .heading{
+    align-content: center;
     font-size: larger;
     font-weight: bold;
 }
