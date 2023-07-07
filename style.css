@@ -61,11 +61,14 @@
     justify-content: space-around;
     align-items: center;
     background-color: #e2eef0;
+    /* flex-direction: row-reverse; */
 }
 .heading{
-    align-content: center;
+    text-align: center;
     font-size: larger;
     font-weight: bold;
+    background-color: #e2eef0;
+    padding: 10px;
 }
 .image2{
     width: 200px;
