@@ -122,6 +122,7 @@
     font-size: small;
     list-style: none;
     color: white;
+    padding: 5px;
 }
 .foot-container{
     background-color:black;
@@ -135,4 +136,15 @@
     height: 70px;
     border-radius: 5px;
     margin-left: 10px ;
+}
+.copy{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 10px;
+    padding: 10px;
+    font-size: small;
+}
+.hr{
+    margin-bottom: 10px ;
 }
