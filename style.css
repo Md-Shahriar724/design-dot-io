@@ -72,24 +72,42 @@
     
 }
 .image2{
-    width: 50;
-    height: 50px;
+    width: 50px;
+    padding-bottom: 5px;
     border-radius: 5px;
 }
 .box-container{
-    height: 100vh;
+    height: 80vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 .box{
-
-    width: 100px;
+    text-align: center;
+    width: 120px;
     height: 220px;
-    box-shadow: 5px 5px rgb(167, 165, 165);
+    box-shadow: 5px 10px 15px rgba(167, 165, 165, 0.678) ;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px;
 }
 .footerheading{
     text-align: center;
-    font-size: large;
-    font-weight: larger;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 10px;
+    color: white;
+    padding-top:20px ;
+}
+.foot{
+    background-color: rgb(31, 31, 31);
+}
+.title{
+    padding: 5px;
+    font-size: larger;
+}
+.blog{
+    font-size: small;
+    padding: 10px;
 }
