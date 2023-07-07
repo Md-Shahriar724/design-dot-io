@@ -116,6 +116,7 @@
     font-size: large;
     font-weight: bold;
     color: white;
+    margin-right: 10px ;
 }
 .list-item{
     font-size: small;
@@ -133,5 +134,5 @@
 .footer-logo{
     height: 70px;
     border-radius: 5px;
-    
+    margin-left: 10px ;
 }
